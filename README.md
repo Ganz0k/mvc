@@ -1,1 +1,1 @@
-# mvc
+# Ejemplo de patrón arquitectónico MVC
